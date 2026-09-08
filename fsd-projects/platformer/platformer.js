@@ -38,7 +38,7 @@ createPlatform(1200,400,200,10);
 createPlatform(800,300,200,10);
 createPlatform(400,200,200,10);
 createPlatform(0,150,200,10);
-createPlatform(1200,600,150,10);
+createPlatform(1200,625,150,10);
 
 
     // TODO 3 - Create Collectables
@@ -47,7 +47,7 @@ createCollectable("database",1350,350,0,0);
 createCollectable("database",0,110,0,0)
 createCollectable("database",1350,200,0,0)
 createCollectable("database",100,610,0,0)
-createCollectable("database",1250,550,0,0)
+createCollectable("database",1250,580,0,0)
 
     
     // TODO 4 - Create Cannons
